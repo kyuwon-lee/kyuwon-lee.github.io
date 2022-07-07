@@ -21,4 +21,4 @@ I study bureaucratic politics, interest group politics and American political in
 
 My work has been published or is forthcoming at _Journal of Politics_.
 
-Please feel free to contact me at: kwl313 [at] nyu [dot] edu
+You can reach out to me at: kwl313 [at] nyu [dot] edu
