@@ -28,4 +28,4 @@ Do political actors attempt to "lock in" their preferred policies in response to
 **<a href='https://www.dropbox.com/s/lk2w2zzujzaec15/paper_tradebureaucrats.pdf?dl=0'><font size="2"> [paper]</font></a>** **<a href='https://www.dropbox.com/s/3w8dxesa4o9f8y7/appendix.pdf?dl=0'><font size="2"> [appendix]</font></a>**      
 
 ## work in progress
-1. Fiscal Crisis and Gender Pay Gap in Bureaucracy (with <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://elisawirsching.github.io'>Elisa Wirsching</a>)
+1. Fiscal Crisis and Gender Pay Gap in Bureaucracy (with <a href='https://elisawirsching.github.io'>Elisa Wirsching</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a> )
