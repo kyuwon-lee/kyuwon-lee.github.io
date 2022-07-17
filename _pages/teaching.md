@@ -18,5 +18,5 @@ nav: true
   <a href='https://www.dropbox.com/s/olcdlcl6i3x9ink/NYU_CRSEVL_S_19.pdf?dl=0'>[Course Evalautions]</a>
 
 ## sample syllabus
-1. Political Economy of Bureaucracy 
+1. Political Economy of Bureaucracy      
   <a href='https://www.dropbox.com/s/j150hkg963y7ltw/Syllabus_Bureaucracy_Kyuwon.pdf?dl=0'>[Sample Syllabus]</a>
