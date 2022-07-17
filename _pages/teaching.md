@@ -17,3 +17,6 @@ nav: true
 3. Introduction to Research Methods for Politics with Hye Young You (Fall 2019)   
   <a href='https://www.dropbox.com/s/olcdlcl6i3x9ink/NYU_CRSEVL_S_19.pdf?dl=0'>[Course Evalautions]</a>
 
+## Sample Syllabus
+1. Political Economy of Bureaucracy 
+  <a href='https://www.dropbox.com/s/j150hkg963y7ltw/Syllabus_Bureaucracy_Kyuwon.pdf?dl=0'>[Sample Syllabus]</a>
