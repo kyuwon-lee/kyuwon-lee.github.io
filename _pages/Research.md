@@ -15,6 +15,7 @@ Do political actors attempt to "lock in" their preferred policies in response to
  I evaluate these incentives in the context of the federal procurement, where federal agencies under unified government may provide non-competitive, higher-cost contracts to firms that donated to the president's party in the absence of any threat to their political dominance. Using data on over 10 million federal procurement contracts in the United States, I find that as the probability of future congressional turnover increases, federal agencies under unified government are more likely to provide lower-cost contracts through competitive bidding, in the expectation that the opposition Congress might overturn non-competitive contracts given to the president's donors. My findings challenge the dominant perspective that electoral turnover degrades bureaucratic performance.              
  
 
+
 ## peer-reviewed articles
 1. with <a href='https://hyeyoungyou.com'>Hye Young You</a>. 2022. ``Bureaucratic Revolving Doors and Interest Group Participation in Policymaking.'' Accepted, _Journal of Politics_.  
 **<a href='https://www.dropbox.com/s/8aw6ltbs92wlnai/jop_manuscript.pdf?dl=0'><font size="2"> [pre-print]</font></a>**   **<a href='https://www.dropbox.com/s/lb5lq3xuraj3b6s/online_appendix.pdf?dl=0'><font size="2"> [appendix]</font></a>**  
