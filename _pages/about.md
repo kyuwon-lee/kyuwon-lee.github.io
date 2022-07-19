@@ -17,7 +17,7 @@ profile:
  
 I am a PhD candidate in the Department of Politics at New York University. I received a BA and MA in Political Science and International Relations from Seoul National University. 
 
-My research interests are bureaucratic politics and American political institutions. My dissertation is unified by a core question: Do government agencies subject to political or interest group influence undermine or enhance bureaucratic performance? While there is a widespread perception that these agencies necessarily perform worse than those independent from external influence, my dissertation addresses unexplored subtleties on this question. Specifically, my dissertation consists of two overarching projects. 
+My research interests are bureaucratic politics and American political institutions. My dissertation is unified by a core question: Do government agencies subject to political or interest group influence undermine or enhance bureaucratic performance? While there is a widespread perception that these agencies necessarily perform worse than those not subject to such influence, my dissertation addresses unexplored subtleties on this question. Specifically, my dissertation consists of two overarching projects. 
 
 1. The first examines how electoral turnover affects the policymaking of forward-looking agencies under presidential influence. 
 2. The second addresses how the eroding distinction between government officials and interest groups, due to the movement of personnel between the private sector and government ("bureaucratic revolving door"), affects bureaucratic performance and political participation of interest groups.    
