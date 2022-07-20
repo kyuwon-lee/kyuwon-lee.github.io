@@ -15,7 +15,7 @@ profile:
  
 ---
  
-I am a PhD candidate in the Department of Politics at New York University. I received a BA and MA in Political Science and International Relations from Seoul National University. 
+I am a PhD candidate in the Department of Politics at New York University.
 
 My research interests are bureaucratic politics and American political institutions. My dissertation is unified by a core question: Do government agencies under strong political or interest group influence undermine or enhance bureaucratic performance? While there is a widespread perception that these agencies necessarily perform worse than those not subject to such influence, my dissertation addresses unexplored subtleties on this question. Specifically, my dissertation consists of two overarching projects. 
 
