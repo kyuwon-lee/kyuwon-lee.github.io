@@ -22,7 +22,7 @@ My research interests are bureaucratic politics and American political instituti
 1. The first examines how the prospect of future electoral turnover affects the policymaking of agencies under presidential influence. 
 2. The second addresses how the eroding distinction between government officials and interest groups, due to the movement of personnel between the private sector and government ("bureaucratic revolving door"), affects bureaucratic performance and political participation of interest groups.    
 
-To address these questions, I apply both game theoretic approaches and quantitative analyses with a deep substantive understanding.
+To address these questions, I apply both game theoretic approaches and quantitative analyses.
 
 My work has been published or is forthcoming at _Journal of Politics_.
 
