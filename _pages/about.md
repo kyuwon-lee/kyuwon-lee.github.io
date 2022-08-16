@@ -15,7 +15,7 @@ profile:
  
 ---
  
-I am a PhD candidate in the Department of Politics at New York University.
+I am a PhD candidate in the Wilf Family Department of Politics at New York University.
 
 My research interests are bureaucratic politics and American political institutions. My dissertation is unified by a core question: Does political or interest group influence on government agencies undermine or enhance bureaucratic performance? While there is a widespread perception that agencies subjected to such influence perform worse than those that are not, my dissertation addresses unexplored subtleties regarding this question. Specifically, my dissertation consists of two overarching projects. 
 
