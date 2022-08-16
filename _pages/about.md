@@ -2,7 +2,7 @@
 layout: about
 title: aboout
 permalink: /
-subtitle: PhD Candidate, <a href='https://as.nyu.edu/politics/allpeople.html'>Department of Politics, New York University</a> 
+subtitle: PhD Candidate, <a href='https://as.nyu.edu/politics/allpeople.html'>Wilf Family Department of Politics, New York University</a> 
 
 profile:
   align: right
