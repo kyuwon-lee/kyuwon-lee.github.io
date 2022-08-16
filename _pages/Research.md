@@ -17,7 +17,7 @@ Do political actors attempt to "lock in" their preferred policies in response to
 
 
 ## peer-reviewed articles
-1. with <a href='https://hyeyoungyou.com'>Hye Young You</a>. 2022. ``Bureaucratic Revolving Doors and Interest Group Participation in Policymaking.'' Accepted, _Journal of Politics_.  
+1. with <a href='https://hyeyoungyou.com'>Hye Young You</a>. 2022. ``Bureaucratic Revolving Doors and Interest Group Participation in Policymaking.'' Forthcoming, _Journal of Politics_.  
 **<a href='https://www.dropbox.com/s/8aw6ltbs92wlnai/jop_manuscript.pdf?dl=0'><font size="2"> [pre-print]</font></a>**   **<a href='https://www.dropbox.com/s/lb5lq3xuraj3b6s/online_appendix.pdf?dl=0'><font size="2"> [appendix]</font></a>**  
 *_Winner of the Founders Best Paper Award Honoring Bert Rockman in the President and Executive Politics Section at 2021 APSA_     
 
