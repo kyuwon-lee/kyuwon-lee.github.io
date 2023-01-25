@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 ## job market paper
-**Electoral Turnover and Government Efficiency: Evidence from Federal Procurement**,     
+**Electoral Turnover and Government Efficiency: Evidence from Federal Procurement**     
 **<a href='https://www.dropbox.com/s/jlun54grfblitzo/politics_competitive_procurement_v19.pdf?dl=0'><font size="2"> [paper]</font></a>**   **<a href='https://www.dropbox.com/s/03dvynsnjgmxa9a/appendix_v19.pdf?dl=0'><font size="2"> [appendix]</font></a>**  
 
 Conventional accounts suggest that executive agencies expecting their power to wane due to electoral turnover have incentives to insulate their preferred policies through cumbersome and inefficient bureaucratic procedures. This argument is premised on an assumption that future adversaries controlling Congress or executive branch will find it difficult or impossible to overturn those policies via formal means. But in numerous policy areas, Congress have informal means at their disposal to do so that are far easier to implement. In those cases, agencies facing the threat of electoral turnover may find it in their interest to craft their policies to reflect the future Congress's preference so that their moderated policies survive after the congressional turnover. To the extent that those future Congresses care about government performance, this incentive to moderate can enhance efficiency, especially if agencies would have preferred inefficient particularistic policies in the absence of any threat to their political dominance.             
