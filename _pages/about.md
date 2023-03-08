@@ -15,7 +15,7 @@ profile:
  
 ---
  
-I am a PhD candidate in the Wilf Family Department of Politics at New York University. In 2023-2024, I will be a Postdoctoral Research Associate at Princeton University's Center for the Study of Democratic Politics (CSDP). In July 2024, I will be joining the University of South Califorian's POIR Department as an Assistant Professor. 
+I am a PhD candidate in the Wilf Family Department of Politics at New York University. In 2023-2024, I will be a Postdoctoral Research Associate at Princeton University's Center for the Study of Democratic Politics (CSDP). In July 2024, I will be joining the University of South Califoria (USC)'s POIR Department as an Assistant Professor. 
 
 My research interests are bureaucratic politics and American political institutions. My dissertation is unified by a core question: Does political or interest group influence on government agencies undermine or enhance bureaucratic performance? While there is a widespread perception that agencies subjected to such influence perform worse than those that are not, my dissertation addresses unexplored subtleties regarding this question. Specifically, my dissertation consists of two overarching projects. 
 
