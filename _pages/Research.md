@@ -19,7 +19,7 @@ Abstract: The president's dominant influence on administrative policymaking has 
 ## working papers 
 1. Dynamic Revolving Door in Regulatory Agencies   
 
-2. Bureaucratic Delays and Organized Interests of the Losers: The Case of Local Petition Delays in Trade Adjustment Assistance        
+2. Bureaucratic Delays and Organized Interests of Losers: Evidence from Trade Adjustment Assistance        
 
 ## work in progress
 1. Fiscal Crisis and Gender Pay Gap in Bureaucracy (with <a href='https://elisawirsching.github.io'>Elisa Wirsching</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a> )
