@@ -17,7 +17,7 @@ Abstract: The president's dominant influence on administrative policymaking has 
 *_Winner of the Founders Best Paper Award Honoring Bert Rockman in the President and Executive Politics Section at 2021 APSA_     
 
 ## working papers 
-1. Dynamic Revolving Door in Regulatory Agencies   
+1. The Dynamic Revolving Door in Regulatory Agencies   
 
 2. Bureaucratic Delays and Organized Interests of Losers: Evidence from Trade Adjustment Assistance        
 
