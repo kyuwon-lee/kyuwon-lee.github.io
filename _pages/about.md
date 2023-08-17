@@ -2,7 +2,7 @@
 layout: about
 title: aboout
 permalink: /
-subtitle: PhD Candidate, <a href='https://as.nyu.edu/politics/allpeople.html'>Wilf Family Department of Politics, New York University</a> 
+subtitle: Postdoctoral Research Associate, <a href='https://csdp.princeton.edu'>Center for the Study of Democratic Politics (CSDP), Princeton University</a> 
 
 profile:
   align: right
