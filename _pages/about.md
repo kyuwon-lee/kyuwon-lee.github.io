@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Associate, <a href='https://csdp.princeton.edu'>
 
 profile:
   align: right
-  image: prof_pic2.jpeg
+  image: prof_pic2.JPEG
   address: >
     <p> </p>
     <p> </p>
