@@ -1,25 +1,21 @@
 ---
 layout: about
-title: about
+title: aboout
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Research Associate, <a href='https://csdp.princeton.edu'>Center for the Study of Democratic Politics (CSDP), Princeton University</a> 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+  image: prof_pic2.jpg
+  address: >
+    <p> </p>
+    <p> </p>
+    <p> </p>
+ 
+ 
 ---
+I am a Postdoctoral Research Associate at Princeton University's Center for the Study of Democratic Politics (CSDP). In July 2024, I will be joining the University of Southern California (USC)'s POIR Department as an Assistant Professor. I received my Ph.D. from the Wilf Family Department of Politics at New York University.  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests are bureaucratic and interest group politics in the United States. My current research focuses on strategic interactions between bureaucracies and organized interests in settings such as government contracts, environmental regulatory enforcement and public advisory meetings. My work leverages a range of research designs and data sources, including game theory, causal inference methods for observational data, text analysis, and administrative data. My work has been published or is forthcoming in _Journal of Politics_.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can reach out to me at: kwl313 [at] nyu [dot] edu
