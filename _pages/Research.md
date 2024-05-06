@@ -7,6 +7,7 @@ nav: true
 ---
 
 ## peer-reviewed articles
+
 1. 2024. ``Electoral Turnover and Government Efficiency: Evidence from Federal Procurement.'' Accepted at _Journal of Politics_. **<a href='https://kyuwon-lee.github.io/research/jop_revision.pdf'><font size="2"> [paper]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/appendix_v20.pdf'><font size="2"> [appendix]</font></a>** 
 <details>
 <summary><b>abstract</b></summary>
