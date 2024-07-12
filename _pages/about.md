@@ -2,7 +2,7 @@
 layout: about
 title: aboout
 permalink: /
-subtitle: Postdoctoral Research Associate, <a href='https://csdp.princeton.edu'>Center for the Study of Democratic Politics (CSDP), Princeton University</a> 
+subtitle: Assistant Professor, <a href='https://dornsife.usc.edu/poir/'>Department of Political Science and International Relations, University of Southern California</a> 
 
 profile:
   align: right
