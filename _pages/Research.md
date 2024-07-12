@@ -37,7 +37,7 @@ nav: true
     </details>    
 
     
-3. with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>. ``Bureaucratic Constraints on Embedded Liber- alism: Evidence from the Trade Adjustments Assistance''
+3. with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>. ``Bureaucratic Constraints on Embedded Liberalism: Evidence from the Trade Adjustments Assistance''
       <details>
       <summary><b>abstract</b></summary>
       Scholars have long claimed that international integration can be sustained by providing sufficient economic compensation to workers adversely affected by it. We argue that the success of this social contract--\textit{Embedded Liberalism}--also depends on the bureaucracies in charge of delivering the compensation. Bureaucratic delays in delivering compensation might erode citizens' beliefs in the government's capacity to uphold the social contract, leading them to reduce their support for globalization. We test our theory on the Trade Adjustment Assistance (TAA) program in the United States. By exploiting the quasi-random assignment of TAA petitions to individual bureaucrats, we estimate the causal effect of being assigned to bureaucrats with idiosyncratic propensities for prompt petition processing on the attitudes of over 200,000 voters from 2006 to 2016. Empirical results support our theory and additionally indicate that labor unions play a crucial role in informing voters about TAA bureaucrats' performance. We demonstrate that bureaucracies could be key to understanding the backlash against globalization.
