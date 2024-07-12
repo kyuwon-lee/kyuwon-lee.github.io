@@ -2,7 +2,7 @@
 layout: about
 title: aboout
 permalink: /
-subtitle: Assistant Professor, <a href='https://dornsife.usc.edu/poir/'>Department of Political Science and International Relations, University of Southern California</a> 
+subtitle: Assistant Professor, <a href='https://dornsife.usc.edu/poir/'>Department of Political Science and International Relations, University of Southern California (USC)</a> 
 
 profile:
   align: right
