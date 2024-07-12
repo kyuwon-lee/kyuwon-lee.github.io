@@ -6,7 +6,7 @@ description: Please contact me for syllabi or course materials.
 nav: true
 ---
 
-## At USC 
+## at USC 
 
 1. POSC 439 (Undergraduate) Conflict, Cooperation and Policy in Government Agencies   
  
