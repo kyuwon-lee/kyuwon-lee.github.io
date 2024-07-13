@@ -15,6 +15,7 @@ nav: true
       </details>
 <p/>
 
+
 2. with <a href='https://hyeyoungyou.com'>Hye Young You</a>. ``Bureaucratic Revolving Doors and Interest Group Participation in Policymaking.'' 2023. _Journal of Politics_, 85(2), pp.701-717. **<a href='https://www.journals.uchicago.edu/doi/10.1086/722340'><font size="2"> [journal]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/jop_manuscript.pdf'><font size="2"> [pre-print]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/online_appendix.pdf'><font size="2"> [appendix]</font></a>**  
 *_Winner of the Founders Best Paper Award Honoring Bert Rockman in the President and Executive Politics Section at 2021 APSA_
       <details>
@@ -28,7 +29,7 @@ nav: true
       <summary><b>abstract</b></summary>
       This paper explores the transformative role of GPT in political science research, demonstrating its potential to streamline data collection and analysis processes. By automating the extraction of information from diverse data sources—such as historical documents, meeting minutes, news articles, and unstructured digital content—GPT significantly reduces the time and financial resources traditionally required for data management. We explore how GPT’s capabilities complement the work of human research assistants, combining automated efficiency with human oversight to enhance both the reliability and depth of research outputs. The integration of GPT not only makes comprehensive data collection and analysis accessible to researchers with limited resources, it also enhances the overall efficiency and scope of research in political science. This article underscores the increasing importance of artificial intelligence tools in advancing empirical research within the field.
     </details>    
-
+<p/>
 
 
 2. with <a href='https://dahyunc.github.io'>Dahyun Choi</a>. ``Firms' Political Response to Regulatory Capacity: Evidence from State-Level Workforce Shocks.'' **<font size="2"> [pdf]</font>**
@@ -36,7 +37,7 @@ nav: true
       <summary><b>abstract</b></summary>
       How do firms adjust their political activities in response to regulatory agencies’ capacity, and are their behaviors constrained by their surrounding political environments? Empirical scrutiny of these questions has been limited due to endogeneity and lack of comparable cases. We propose using state-level regulatory politics to better address these questions. Using original datasets on the workforce of U.S. state environmental agencies from 2000-2019, we estimate the causal effect of unanticipated workforce shocks that arise from the gap between the actual and appropriated workforce size. We find that regulated firms increase campaign contributions to state legislators and governors while decreasing contributions to House representatives in response to workforce shocks. Ideologically, firms specifically target moderate state legislators over conservative House representatives who are conventionally considered to be their political allies. We also find that state-level restrictions on corporate donations do not significantly curb firms' political responsiveness to workforce shocks. These findings contribute to our understanding of corporate political strategies in regulatory environments.
     </details>    
-
+<p/>
 
     
 3. with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>. ``Bureaucratic Constraints on Embedded Liberalism: Evidence from the Trade Adjustments Assistance.'' **<font size="2"> [pdf]</font>**
@@ -44,7 +45,7 @@ nav: true
       <summary><b>abstract</b></summary>
       Scholars have long claimed that international integration can be sustained by providing sufficient economic compensation to workers adversely affected by it. We argue that the success of this social contract--Embedded Liberalism--also depends on the bureaucracies in charge of delivering the compensation. Bureaucratic delays in delivering compensation might erode citizens' beliefs in the government's capacity to uphold the social contract, leading them to reduce their support for globalization. We test our theory on the Trade Adjustment Assistance (TAA) program in the United States. By exploiting the quasi-random assignment of TAA petitions to individual bureaucrats, we estimate the causal effect of being assigned to bureaucrats with idiosyncratic propensities for prompt petition processing on the attitudes of over 200,000 voters from 2006 to 2016. Empirical results support our theory and additionally indicate that labor unions play a crucial role in informing voters about TAA bureaucrats' performance. We demonstrate that bureaucracies could be key to understanding the backlash against globalization.
     </details>  
-    
+<p/>    
     
 4. The Dynamic Revolving Door in Regulatory Agencies     
 
