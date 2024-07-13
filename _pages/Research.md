@@ -50,6 +50,6 @@ nav: true
 4. "The Dynamic Revolving Door in Regulatory Agencies."     
 
 ## work in progress
-1. Market Response and Bureaucratic Enforcement of Presidential Actions: Evidence from Buy American Act (with Soohyun Cho and Kyuwon Lee)
+1. Market Response and Bureaucratic Enforcement of Presidential Actions: Evidence from Buy American Act (with Soohyun Cho and Hye Young You)
 
 2. Revolving Between Bureaucracies
