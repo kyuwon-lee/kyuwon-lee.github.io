@@ -35,7 +35,7 @@ nav: true
 "Firms' Political Response to Regulatory Capacity: Evidence from State-Level Workforce Shocks" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).  **<font size="2"> [pdf]</font>**
 <details>
       <summary><b>abstract</b></summary>
-      How do firms adjust their political activities in response to regulatory agencies’ capacity, and are their behaviors constrained by their surrounding political environments? Empirical scrutiny of these questions has been limited due to endogeneity and lack of comparable cases. We propose using state-level regulatory politics to better address these questions. Using original datasets on the workforce of U.S. state environmental agencies from 2000-2019, we estimate the causal effect of unanticipated workforce shocks that arise from the gap between the actual and appropriated workforce size. We find that regulated firms increase campaign contributions to state legislators and governors while decreasing contributions to House representatives in response to workforce shocks. Specifically, firms contributes more to moderate state legislators but less to conservative House representatives who are conventionally considered to be their political allies. We also find that state-level restrictions on corporate donations do not significantly curb firms' political responsiveness to workforce shocks. These findings contribute to our understanding of interest group strategies in regulatory environments.
+      Will be added soon!
 </details>    
 <p/>
 
