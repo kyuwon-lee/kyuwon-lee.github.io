@@ -29,7 +29,7 @@ nav: true
       <summary><b>abstract</b></summary>
       This paper explores the transformative role of GPT in political science research, demonstrating its potential to streamline data collection and analysis processes. By automating the extraction of information from diverse data sources—such as historical documents, meeting minutes, news articles, and unstructured digital content—GPT significantly reduces the time and financial resources traditionally required for data management. We explore how GPT’s capabilities complement the work of human research assistants, combining automated efficiency with human oversight to enhance both the reliability and depth of research outputs. The integration of GPT not only makes comprehensive data collection and analysis accessible to researchers with limited resources, it also enhances the overall efficiency and scope of research in political science. This article underscores the increasing importance of artificial intelligence tools in advancing empirical research within the field.
 </details>    
-<p/>
+<p/> 
 
 
 "Firms' Political Response to Regulatory Capacity: Evidence from State-Level Workforce Shocks" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).  **<font size="2"> [pdf]</font>**
