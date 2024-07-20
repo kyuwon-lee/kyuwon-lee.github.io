@@ -14,7 +14,7 @@ nav: true
 </details>
 <p/>
 
-
+ 
 [1] "Bureaucratic Revolving Doors and Interest Group Participation in Policymaking." with <a href='https://hyeyoungyou.com'>Hye Young You</a>. 2023. _Journal of Politics_, 85(2), pp.701-717. **<a href='https://www.journals.uchicago.edu/doi/10.1086/722340'><font size="2"> [journal]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/jop_manuscript.pdf'><font size="2"> [pre-print]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/online_appendix.pdf'><font size="2"> [appendix]</font></a>**  
 *_Winner of the Founders Best Paper Award Honoring Bert Rockman in the President and Executive Politics Section at 2021 APSA_
 <details>
