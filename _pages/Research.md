@@ -32,10 +32,10 @@ nav: true
 <p/> 
 
 
-"Firms' Political Response to Regulatory Capacity: Evidence from State-Level Workforce Shocks" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).  **<font size="2"> [pdf]</font>**
+"Diminishing Regulatory Capacity and Corporate Political Disengagement: Evidence from State-Level Workforce Shocks" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).  **<font size="2"> [pdf]</font>**
 <details>
       <summary><b>abstract</b></summary>
-      Will be added soon!
+      While there are public concerns about the declining capacity of regulatory agencies and its impact on regulatory outcomes, such decline could also lead regulated firms to disengage themselves from politics. We investigate whether and how firms reduce their campaign contributions in response to a decrease in state-level regulatory capacity. We do so by leveraging variations in unexpected workforce shocks that arise from the gap between actual and appropriated workforce sizes of U.S. state environmental agencies and estimate their effects. Our analysis reveals that state environmental agencies' workforce shocks decrease firms' donations to state legislators, particularly to those in the majority party and the Democratic party. The latter finding is not driven by regulated firms adjusting their donations given to their ideological allies. We also find that state-level restrictions on corporate donations do not moderate firms' political responsiveness. Overall, this article provides a nuanced picture of how diminishing regulatory capacity could shape corporate political engagement.
 </details>    
 <p/>
 
