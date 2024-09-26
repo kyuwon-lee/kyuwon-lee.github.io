@@ -7,6 +7,12 @@ nav: true
 ---
 
 ## peer-reviewed articles
+[3] "Applications of GPT in Political Science Research." (<a href='https://www.simonepaci.com'>Simone Paci</a>, <a href='https://jeongminpark-ps.github.io/'>Jeongmin Park</a>, <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://sylvan.fish/about/'>Sylvan Zheng</a>). 2024. Conditionaly Accepted at _PS: Political Science and Politics_. **<a href='https://kyuwon-lee.github.io/research/gpt_polisci.pdf'><font size="2"> [pdf]</font></a>** 
+<details>
+      <summary><b>abstract</b></summary>
+      This paper explores the transformative role of GPT in political science research, demonstrating its potential to streamline data collection and analysis processes. By automating the extraction of information from diverse data sources—such as historical documents, meeting minutes, news articles, and unstructured digital content—GPT significantly reduces the time and financial resources traditionally required for data management. We explore how GPT’s capabilities complement the work of human research assistants, combining automated efficiency with human oversight to enhance both the reliability and depth of research outputs. The integration of GPT not only makes comprehensive data collection and analysis accessible to researchers with limited resources, it also enhances the overall efficiency and scope of research in political science. This article underscores the increasing importance of artificial intelligence tools in advancing empirical research within the field.
+</details>    
+<p/> 
  
 [2] "Electoral Turnover and Government Efficiency: Evidence from Federal Procurement." 2024. Accepted at _Journal of Politics_. **<a href='https://kyuwon-lee.github.io/research/jop_revision.pdf'><font size="2"> [paper]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/appendix_v20.pdf'><font size="2"> [appendix]</font></a>** 
 <details><summary><b>abstract</b></summary>
@@ -24,14 +30,6 @@ nav: true
 <p/>
       
 ## working papers 
-"Applications of GPT in Political Science Research" (<a href='https://www.simonepaci.com'>Simone Paci</a>, <a href='https://jeongminpark-ps.github.io/'>Jeongmin Park</a>, <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://sylvan.fish/about/'>Sylvan Zheng</a>).  **<a href='https://kyuwon-lee.github.io/research/gpt_polisci.pdf'><font size="2"> [pdf]</font></a>** (_Revised and Resubmitted_)
-<details>
-      <summary><b>abstract</b></summary>
-      This paper explores the transformative role of GPT in political science research, demonstrating its potential to streamline data collection and analysis processes. By automating the extraction of information from diverse data sources—such as historical documents, meeting minutes, news articles, and unstructured digital content—GPT significantly reduces the time and financial resources traditionally required for data management. We explore how GPT’s capabilities complement the work of human research assistants, combining automated efficiency with human oversight to enhance both the reliability and depth of research outputs. The integration of GPT not only makes comprehensive data collection and analysis accessible to researchers with limited resources, it also enhances the overall efficiency and scope of research in political science. This article underscores the increasing importance of artificial intelligence tools in advancing empirical research within the field.
-</details>    
-<p/> 
-
-
 "Diminishing Regulatory Capacity and Corporate Political Disengagement: Evidence from State-Level Workforce Shocks" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).   **<a href='https://kyuwon-lee.github.io/research/env_firm_v5.pdf'><font size="2"> [pdf]</font></a>**
 <details>
       <summary><b>abstract</b></summary>
