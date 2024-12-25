@@ -52,6 +52,6 @@ nav: true
 "The Dynamic Revolving Door in Regulatory Agencies."     
 
 ## work in progress
-Partisan Enforcement of Executive Orders: Evidence from Buy American Act (with Soohyun Cho and Hye Young You)
+Partisan Enforcement of Executive Orders: Evidence from the Buy American Act (with Soohyun Cho and Hye Young You)
 
 Cutting Red Tape Through Bureaucratic Revolving Doors
