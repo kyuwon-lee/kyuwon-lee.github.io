@@ -52,6 +52,6 @@ nav: true
 "The Dynamic Revolving Door in Regulatory Agencies."     
 
 ## work in progress
-Who Pays for Protectionism? Partisan Bias in Buy American Act Enforcement (with Soohyun Cho and Hye Young You)
+Who Pays for Protectionism? Partisan Enforcement of Buy American Act (with Soohyun Cho and Hye Young You)
 
-Cutting Red Tape Through Bureaucratic Revolving Doors
+Leveling the Playing Field: Cutting Red Tape With Bureaucratic Revolving Doors
