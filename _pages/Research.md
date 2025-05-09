@@ -33,18 +33,18 @@ nav: true
 "Diminishing Regulatory Capacity and Corporate Political Disengagement" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).   **<a href='https://osf.io/preprints/osf/ymqds'><font size="2"> [pdf]</font></a>**
 <details>
       <summary><b>abstract</b></summary>
-      Although there are public concerns about the declining capacity of regulatory agencies and its impact on regulatory outcomes, such decline could also lead regulated firms to disengage themselves from politics. We examine whether and how firms reduce their campaign contributions in response to decreases in state-level regulatory capacity. To do so, we collect original datasets on the workforce size of U.S. state environmental agencies and leverage variations in workforce shocks that arise from the gap between actual and appropriated workforce sizes. Our analysis reveals that state environmental agencies' workforce shocks decrease firms' donations to state legislators&mdash;particularly to those in the majority party and Democratic party&mdash;but do not affect firms' contributions to their ideological allies. Workforce shocks also decrease firms' environmental issue-related lobbying at the federal level. Overall, this article provides a nuanced picture of how diminishing regulatory capacity could shape corporate political activities.
+      Although there are public concerns about the declining capacity of regulatory agencies and its impact on regulatory outcomes, such decline might also lead regulated firms to disengage from politics. We examine whether and how firms reduce their campaign contributions in response to decreases in state-level regulatory capacity. To do so, we collect original data on the workforce size of U.S. state environmental agencies and leverage variation in workforce shocks that arise from the gap between actual and appropriated workforce sizes. Our analysis reveals that workforce shocks to state environmental agencies reduce regulated firms' donations to state legislators—particularly to those in the majority party and to Democratic legislators. Additional analysis suggests that reductions in regulated firms’ contributions are driven by access-seeking motives. Workforce shocks also reduce firms' environmental issue-related lobbying at the federal level. Overall, this article provides a picture of how diminishing regulatory capacity can shape corporate political activity.
 </details>    
 <p/>
 
     
-"Bureaucratic Constraints on Embedded Liberalism: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<font size="2"> [pdf]</font>**
+"Bureaucratic Constraints on Supporting Gloabalization: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<font size="2"> [pdf]</font>**
 
 &emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
 <details>
       <summary><b>abstract</b></summary>
-      Scholars have long claimed that international integration can be sustained by providing sufficient government compensation to workers adversely affected by it. We argue that the success of this social contract&mdash;known as Embedded Liberalism&mdash;also depends on the bureaucracies responsible for delivering the compensation. Bureaucratic delays in delivering compensation can undermine citizens' confidence in the government's ability to protect them from the adverse consequences of international trade, leading to diminished support for redistribution and globalization. We test our theory on the Trade Adjustment Assistance (TAA) program in the United States. By leveraging the quasi-random assignment of TAA petitions to individual bureaucrats, we estimate the effect of bureaucrat-driven delays in processing petitions on the attitudes of over 200,000 voters from 2006 to 2016. Empirical results support our theory and indicate that effects are stronger where the information is more likely to reach citizens. We discuss how bureaucratic hurdles in redistributive programs may significantly contribute to the backlash against globalization.
+      Scholars have long claimed that international integration can be sustained by providing sufficient government compensation to workers adversely affected by it. We argue that the success of this compensation scheme also depends on the bureaucracies responsible for delivering the compensation on behalf of the government. In particular, bureaucratic delays in delivering compensation to trade losers can undermine citizens' confidence in the government's ability to protect them from the adverse consequences of international trade, leading to a decrease in support for internationalism. We test our theory on the Trade Adjustment Assistance (TAA) program in the United States. By leveraging the quasi-random assignment of TAA petitions to individual bureaucrats, we estimate the effect of bureaucrat-driven delays in processing petitions on the attitudes of over 200,000 voters. Empirical results support our theory and indicate that effects are stronger where the information about TAA delays is more likely to reach citizens. We also find that these delays could increase support for politicians advocating for economic nationalism.
 </details>  
 <p/>    
 
@@ -52,6 +52,6 @@ nav: true
 "The Dynamic Revolving Door in Regulatory Agencies."     
 
 ## work in progress
-Who Pays for Protectionism? Partisan Enforcement of Buy American Act (with Soohyun Cho and Hye Young You)
+Who Gets Protected from Protectionism? Evidence from the Buy American Act (with Soohyun Cho and Hye Young You)
 
 Leveling the Playing Field: Cutting Red Tape With Bureaucratic Revolving Doors
