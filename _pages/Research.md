@@ -38,7 +38,7 @@ nav: true
 <p/>
 
     
-"Bureaucratic Constraints on Supporting Gloabalization: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<font size="2"> [pdf]</font>**
+"Bureaucratic Constraints on Supporting International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<font size="2"> [pdf]</font>**
 
 &emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
