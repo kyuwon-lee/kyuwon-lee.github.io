@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-## peer-reviewed articles
+## Peer-Reviewed Articles
 [3] "Applications of GPT in Political Science Research." (<a href='https://www.simonepaci.com'>Simone Paci</a>, <a href='https://jeongminpark-ps.github.io/'>Jeongmin Park</a>, <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://sylvan.fish/about/'>Sylvan Zheng</a>). 2024. Conditionaly Accepted at _PS: Political Science and Politics_. **<a href='https://kyuwon-lee.github.io/research/gpt_polisci.pdf'><font size="2"> [pdf]</font></a>** 
 <details>
       <summary><b>abstract</b></summary>
@@ -29,7 +29,7 @@ nav: true
 </details>    
 <p/>
       
-## working papers 
+## Working Papers 
 "Diminishing Regulatory Capacity and Corporate Political Disengagement" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).   **<a href='https://osf.io/preprints/osf/ymqds'><font size="2"> [pdf]</font></a>**
 <details>
       <summary><b>abstract</b></summary>
@@ -51,7 +51,7 @@ nav: true
     
 "The Dynamic Revolving Door in Regulatory Agencies."     
 
-## work in progress
+## Work in Progress
 Who Gets Protected from Protectionism? Evidence from the Buy American Act (with Soohyun Cho and Hye Young You)
 
 Leveling the Playing Field: Bureaucratic Revolving Doors For The Marginalized
