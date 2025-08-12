@@ -38,7 +38,7 @@ nav: true
 <p/>
 
     
-"Bureaucratic Constraints on Supporting International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<font size="2"> [pdf]</font>**
+"Bureaucratic Constraints on Supporting International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
 
 &emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
