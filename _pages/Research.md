@@ -40,14 +40,14 @@ nav: true
 </details>  
 <p/>    
 
-"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>) [pdf]
+"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). [pdf]
 <details>
       <summary><b>abstract</b></summary>
       Contemporary U.S. protectionist policies are often initiated by the executive but little is known about the cause underlying their uneven enforcement across firms. We argue this unevenness arises because legislators—with institutional leverage and local incentives—shield politically connected firms from executive protectionist measures. We test this claim using the Trump administration’s Buy American actions (BAA), which penalized firms reliant on foreign—especially Chinese—suppliers. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms from 2015–2019. A difference-in-differences design shows that the BAA significantly reduced contracts for firms with Chinese suppliers, but only among politically inactive firms in districts represented by less powerful House members or members lacking strong local ties. We also find that only less-protected firms adjusted their suppliers after the BAA. These findings demonstrate how legislative politics shape the implementation and international economic consequences of protectionist policy, underscoring legislators’ role amid presidential dominance in trade policymaking.
 </details>    
 <p/>
 
-"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a> [pdf]
+"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a>). [pdf]
 <details>
       <summary><b>abstract</b></summary>
       Contemporary U.S. protectionist policies are often initiated by the executive but little is known about the cause underlying their uneven enforcement across firms. We argue this unevenness arises because legislators—with institutional leverage and local incentives—shield politically connected firms from executive protectionist measures. We test this claim using the Trump administration’s Buy American actions (BAA), which penalized firms reliant on foreign—especially Chinese—suppliers. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms from 2015–2019. A difference-in-differences design shows that the BAA significantly reduced contracts for firms with Chinese suppliers, but only among politically inactive firms in districts represented by less powerful House members or members lacking strong local ties. We also find that only less-protected firms adjusted their suppliers after the BAA. These findings demonstrate how legislative politics shape the implementation and international economic consequences of protectionist policy, underscoring legislators’ role amid presidential dominance in trade policymaking.
