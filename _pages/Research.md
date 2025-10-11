@@ -30,14 +30,6 @@ nav: true
 <p/>
       
 ## Working Papers 
-"Diminishing Regulatory Capacity and Corporate Political Disengagement" (with <a href='https://dahyunc.github.io'>Dahyun Choi</a>).   **<a href='https://osf.io/preprints/osf/ymqds'><font size="2"> [pdf]</font></a>**
-<details>
-      <summary><b>abstract</b></summary>
-      Although there are public concerns about the declining capacity of regulatory agencies and its impact on regulatory outcomes, such decline might also lead regulated firms to disengage from politics. We examine whether and how firms reduce their campaign contributions in response to decreases in state-level regulatory capacity. To do so, we collect original data on the workforce size of U.S. state environmental agencies and leverage variation in workforce shocks that arise from the gap between actual and appropriated workforce sizes. Our analysis reveals that workforce shocks to state environmental agencies reduce regulated firms' donations to state legislators—particularly to those in the majority party and to Democratic legislators. Additional analysis suggests that reductions in regulated firms’ contributions are driven by access-seeking motives. Workforce shocks also reduce firms' environmental issue-related lobbying at the federal level. Overall, this article provides a picture of how diminishing regulatory capacity can shape corporate political activity.
-</details>    
-<p/>
-
-    
 "Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
 
 &emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
@@ -49,7 +41,13 @@ nav: true
 <p/>    
 
 "Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>) [pdf]
+<details>
+      <summary><b>abstract</b></summary>
+      Contemporary U.S. protectionist policies are often initiated by the executive but little is known about the cause underlying their uneven enforcement across firms. We argue this unevenness arises because legislators—with institutional leverage and local incentives—shield politically connected firms from executive protectionist measures. We test this claim using the Trump administration’s Buy American actions (BAA), which penalized firms reliant on foreign—especially Chinese—suppliers. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms from 2015–2019. A difference-in-differences design shows that the BAA significantly reduced contracts for firms with Chinese suppliers, but only among politically inactive firms in districts represented by less powerful House members or members lacking strong local ties. We also find that only less-protected firms adjusted their suppliers after the BAA. These findings demonstrate how legislative politics shape the implementation and international economic consequences of protectionist policy, underscoring legislators’ role amid presidential dominance in trade policymaking.
+</details>    
+<p/>
 
+"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a> [pdf]
 <details>
       <summary><b>abstract</b></summary>
       Contemporary U.S. protectionist policies are often initiated by the executive but little is known about the cause underlying their uneven enforcement across firms. We argue this unevenness arises because legislators—with institutional leverage and local incentives—shield politically connected firms from executive protectionist measures. We test this claim using the Trump administration’s Buy American actions (BAA), which penalized firms reliant on foreign—especially Chinese—suppliers. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms from 2015–2019. A difference-in-differences design shows that the BAA significantly reduced contracts for firms with Chinese suppliers, but only among politically inactive firms in districts represented by less powerful House members or members lacking strong local ties. We also find that only less-protected firms adjusted their suppliers after the BAA. These findings demonstrate how legislative politics shape the implementation and international economic consequences of protectionist policy, underscoring legislators’ role amid presidential dominance in trade policymaking.
