@@ -48,7 +48,7 @@ nav: true
 </details>  
 <p/>    
 
-"Who Gets Protected from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>) [pdf]
+"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>) [pdf]
 
 <details>
       <summary><b>abstract</b></summary>
