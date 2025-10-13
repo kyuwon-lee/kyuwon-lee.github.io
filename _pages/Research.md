@@ -54,7 +54,7 @@ nav: true
 </details>    
 <p/>
 
-Leveling the Playing Field: Bureaucratic Revolving Doors For The Marginalized
+"Leveling the Playing Field: Bureaucratic Revolving Doors For The Marginalized"
 <details>
       <summary><b>abstract</b></summary>
       Existing scholarship often portrays the bureaucratic revolving door as distorting government resource allocation and privileging large, well-organized interests. This paper challenges that view by focusing on the revolving door of mid-level career bureaucrats—who constitute the vast majority of the federal workforce. I argue that these former bureaucrats can help marginalized businesses navigate complex regulations with their expertise, facilitating the participation of previously excluded firms in government processes. As a consequence, they may reduce inequalities between well-established and less-established firms. To test this claim, I examine U.S. federal contracting and assemble novel data on the career trajectories of more than 33,000 contracting officers across agencies. Using a difference-in-differences design on a firm–year panel from 2004–2024, I find that small firms inexperienced in federal contracting particularly yield meaningful increases in contract awards after hiring former contracting officers. Additional analyses suggest that these gains are driven by expertise but not by personal connections. These findings bring marginalized businesses to debates over appropriate revolving-door restrictions.
