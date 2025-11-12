@@ -63,9 +63,9 @@ nav: true
       
 ## Work in Progress
 
-Quitting in Protest, but to Where? Federal Employee Turnover and Policy Engagement Beyond Government (With Rebecca Perlman)
+Quitting in Protest, but to Where? Federal Employee Turnover and Policy Engagement Beyond Government (with Rebecca Perlman)
 
 
-Following the Bureaucrats: Impacts of the Revolving Door in the EPA (With Rebecca Perlman)
+Following the Bureaucrats: Impacts of the Revolving Door in the EPA (with Rebecca Perlman)
 
 
