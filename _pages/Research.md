@@ -30,7 +30,7 @@ nav: true
 <p/>
       
 ## Working Papers 
-"Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>).  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
+"Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Revise and Resubmit_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
 
 &emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
@@ -40,14 +40,14 @@ nav: true
 </details>  
 <p/>    
 
-"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). [pdf]
+"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). _Under Review_ [pdf]
 <details>
       <summary><b>abstract</b></summary>
       Contemporary protectionist policies are often initiated by national executives, yet their enforcement may vary across firms. We argue that this unevenness arises because legislators' institutional leverage and local ties shield politically connected firms from executive protectionist measures. We test this claim using the Trump administration’s Buy American Act (BAA), which penalized firms reliant on foreign—especially Chinese—suppliers in procurement. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms from 2015–2019. A difference-in-differences design shows that the BAA significantly reduced contracts for firms previously reliant on Chinese suppliers, but only among politically inactive firms in districts represented by less powerful House members or those lacking strong local ties. We also find that only less-protected firms adjusted suppliers after the BAA. These results reveal how congressional influence shapes the implementation and distributional consequences of executive-led protectionism, challenging the view of presidential dominance in trade policymaking.
 </details>    
 <p/>
 
-"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a>). [pdf]
+"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a>). _Under Review_ [pdf]
 <details>
       <summary><b>abstract</b></summary>
       The establishment of the Department of Government Efficiency (DOGE) during Trump's second term marks an expansion of presidential authority over federal agencies. This institutional development provides a rare opportunity to examine whether presidents can leverage politicized agencies for political and electoral goals. Drawing on detailed procurement data and DOGE's cancellation records, we find that Republican donor firms were less likely to face cancellations, whereas firms donating to Democrats were more likely to lose contracts. Cancellations were less frequent in Republican-held districts, conservative agencies, and states favorable to the Republican Party. Leveraging the timing of the 2025 Wisconsin Supreme Court election, we use a difference-in-differences design to show that Wisconsin-based firms experienced a sharp increase in cancellations following the election, underscoring the strategic timing of DOGE's operations. Our findings shed new light on the consequences of agency politicization and align with the Trump administration's effort to consolidate its support base.
