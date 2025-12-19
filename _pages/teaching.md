@@ -8,7 +8,9 @@ nav: true
 
 ## at USC 
 
-1. POSC 439 (Undergraduate) Conflict, Cooperation and Policy in Government Agencies   
+1. POSC 439 (Undergraduate) Conflict, Cooperation and Policy in Government Agencies
+
+2. POSC 311 (Undergraduate) Political Analysis
  
-2. POIR 614 (Graduate) Topics in Quantitative Analysis: Causal Inference    
+3. POIR 614 (Graduate) Topics in Quantitative Analysis: Causal Inference    
  
