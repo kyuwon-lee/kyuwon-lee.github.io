@@ -8,7 +8,7 @@ nav: true
 
 ## Peer-Reviewed Articles
 [4] "Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Accepted with a Minor Revision, American Journal of Political Science_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pre-print]</font></a>**
-&emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
+- Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
 <details>
       <summary><b>abstract</b></summary>
