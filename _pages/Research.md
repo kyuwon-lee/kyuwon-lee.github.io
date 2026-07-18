@@ -7,8 +7,7 @@ nav: true
 ---
 
 ## Peer-Reviewed Articles
-[4] "Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Accepted with a Minor Revision, American Journal of Political Science_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
-
+[4] "Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Accepted with a Minor Revision, American Journal of Political Science_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pre-print]</font></a>**
 &emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
 <details>
@@ -17,14 +16,14 @@ nav: true
 </details>  
 <p/>    
       
-[3] "Applications of GPT in Political Science Research." (<a href='https://www.simonepaci.com'>Simone Paci</a>, <a href='https://jeongminpark-ps.github.io/'>Jeongmin Park</a>, <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://sylvan.fish/about/'>Sylvan Zheng</a>). 2025. _PS: Political Science and Politics_. **<a href='https://doi.org/10.1017/S1049096525000046'><font size="2"> [journal]</font></a>** **<a href='https://kyuwon-lee.github.io/research/gpt_polisci.pdf'><font size="2"> [paper]</font></a>** 
+[3] "Applications of GPT in Political Science Research." (<a href='https://www.simonepaci.com'>Simone Paci</a>, <a href='https://jeongminpark-ps.github.io/'>Jeongmin Park</a>, <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://sylvan.fish/about/'>Sylvan Zheng</a>). 2025. _PS: Political Science and Politics_. **<a href='https://doi.org/10.1017/S1049096525000046'><font size="2"> [journal]</font></a>** **<a href='https://kyuwon-lee.github.io/research/gpt_polisci.pdf'><font size="2"> [pre-print]</font></a>** 
 <details>
       <summary><b>abstract</b></summary>
       This paper explores the transformative role of GPT in political science research, demonstrating its potential to streamline data collection and analysis processes. By automating the extraction of information from diverse data sources—such as historical documents, meeting minutes, news articles, and unstructured digital content—GPT significantly reduces the time and financial resources traditionally required for data management. We explore how GPT’s capabilities complement the work of human research assistants, combining automated efficiency with human oversight to enhance both the reliability and depth of research outputs. The integration of GPT not only makes comprehensive data collection and analysis accessible to researchers with limited resources, it also enhances the overall efficiency and scope of research in political science. This article underscores the increasing importance of artificial intelligence tools in advancing empirical research within the field.
 </details>    
 <p/> 
  
-[2] "Electoral Turnover and Government Efficiency: Evidence from Federal Procurement." 2025. _Journal of Politics_, 87(2), pp.572–587. **<a href='https://www.journals.uchicago.edu/doi/10.1086/732954'><font size="2"> [journal]</font></a>** **<a href='https://kyuwon-lee.github.io/research/jop_revision.pdf'><font size="2"> [paper]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/appendix_v20.pdf'><font size="2"> [appendix]</font></a>** 
+[2] "Electoral Turnover and Government Efficiency: Evidence from Federal Procurement." 2025. _Journal of Politics_, 87(2), pp.572–587. **<a href='https://www.journals.uchicago.edu/doi/10.1086/732954'><font size="2"> [journal]</font></a>** **<a href='https://kyuwon-lee.github.io/research/jop_revision.pdf'><font size="2"> [pre-print]</font></a>**   **<a href='https://kyuwon-lee.github.io/research/appendix_v20.pdf'><font size="2"> [appendix]</font></a>** 
 <details><summary><b>abstract</b></summary>
       The president's dominant influence on administrative policymaking has sparked public concerns about resulting inefficiencies at federal agencies. I examine how the possibility of future electoral turnover can limit agencies' engagement in presidential favoritism, focusing on policy areas where Congress can use informal means to constrain agencies' actions under the separation of powers system. In those areas, forward-looking agencies might alter their behavior to accommodate future constraints from the opposition Congress, even given substantial presidential influence. I evaluate these incentives using federal contract data in the United States. I find that as the probability of congressional turnover increases, federal agencies under unified government are more likely to award lower-cost contracts through competitive bidding in the expectation that the future Congress might compel agencies to abandon non-competitive contracts given to firms politically connected to the president. My findings challenge the dominant perspective that electoral turnover necessarily degrades bureaucratic performance.
 </details>
