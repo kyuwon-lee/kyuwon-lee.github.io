@@ -7,6 +7,16 @@ nav: true
 ---
 
 ## Peer-Reviewed Articles
+[4] "Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Accepted with a Minor Revision, American Journal of Political Science_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
+
+&emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
+
+<details>
+      <summary><b>abstract</b></summary>
+      Scholars have long argued that international integration can be sustained by providing sufficient government compensation to workers harmed by import competition. We argue that the success of such compensation also depends on the bureaucracies tasked with implementing it. Specifically, bureaucratic delays in delivering benefits to affected workers can erode trust in the government's capacity to mitigate the adverse effects of import competition, thereby weakening public support for international integration. We test this theory using the U.S. Trade Adjustment Assistance (TAA) program. Leveraging quasi-random assignment of TAA petitions to individual bureaucrats, we find that bureaucrat-driven delays in processing petitions shift voting behavior and public attitudes in the affected communities  against international integration and the government. The effects are stronger where information about TAA delays is more likely to reach citizens. Our findings highlight broader political consequences of bureaucratic performance than previously considered.
+</details>  
+<p/>    
+      
 [3] "Applications of GPT in Political Science Research." (<a href='https://www.simonepaci.com'>Simone Paci</a>, <a href='https://jeongminpark-ps.github.io/'>Jeongmin Park</a>, <a href='https://hyeyoungyou.com'>Hye Young You</a> and <a href='https://sylvan.fish/about/'>Sylvan Zheng</a>). 2025. _PS: Political Science and Politics_. **<a href='https://doi.org/10.1017/S1049096525000046'><font size="2"> [journal]</font></a>** **<a href='https://kyuwon-lee.github.io/research/gpt_polisci.pdf'><font size="2"> [paper]</font></a>** 
 <details>
       <summary><b>abstract</b></summary>
@@ -30,16 +40,6 @@ nav: true
 <p/>
       
 ## Working Papers 
-"Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Accepted with a Minor Revision, American Journal of Political Science_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pdf]</font></a>**
-
-&emsp;      - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
-
-<details>
-      <summary><b>abstract</b></summary>
-      Scholars have long argued that international integration can be sustained by providing sufficient government compensation to workers harmed by import competition. We argue that the success of such compensation also depends on the bureaucracies tasked with implementing it. Specifically, bureaucratic delays in delivering benefits to affected workers can erode trust in the government's capacity to mitigate the adverse effects of import competition, thereby weakening public support for international integration. We test this theory using the U.S. Trade Adjustment Assistance (TAA) program. Leveraging quasi-random assignment of TAA petitions to individual bureaucrats, we find that bureaucrat-driven delays in processing petitions shift voting behavior and public attitudes in the affected communities  against international integration and the government. The effects are stronger where information about TAA delays is more likely to reach citizens. Our findings highlight broader political consequences of bureaucratic performance than previously considered.
-</details>  
-<p/>    
-
 "Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). _Revised and Resubmitted_  **<a href='https://kyuwon-lee.github.io/research/baa_cho_lee_you.pdf'><font size="2"> [pdf]</font></a>** 
 
 <details>
