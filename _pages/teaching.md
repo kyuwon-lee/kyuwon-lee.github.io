@@ -12,5 +12,7 @@ nav: true
 
 2. POSC 311 (Undergraduate) Political Analysis
  
-3. POIR 614 (Graduate) Topics in Quantitative Analysis: Causal Inference    
+3. POIR 613 (Graduate) Topics in Quantitative Analysis: Causal Inference
+
+4. POIR 616 (Graduate) Advanced Quantitative Methods   
  
