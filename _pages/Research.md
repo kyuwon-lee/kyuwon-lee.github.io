@@ -39,7 +39,7 @@ nav: true
 <p/>
       
 ## Working Papers 
-"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). _Revised and Resubmitted_  **<a href='https://kyuwon-lee.github.io/research/baa_cho_lee_you.pdf'><font size="2"> [pdf]</font></a>** 
+"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). _Revised and Resubmitted_  **<a href='https://kyuwon-lee.github.io/research/BAA_revised.pdf'><font size="2"> [pdf]</font></a>** 
 
 <details>
       <summary><b>abstract</b></summary>
