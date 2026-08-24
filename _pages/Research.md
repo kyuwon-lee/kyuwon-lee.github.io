@@ -47,7 +47,7 @@ nav: true
 </details>    
 <p/>
 
-"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a>). _Under Review_ **<a href='https://kyuwon-lee.github.io/research/DOGE_Bellodi_Lee.pdf'><font size="2"> [pdf]</font></a>** 
+"The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a>). _Revise and Resubmit_ **<a href='https://kyuwon-lee.github.io/research/DOGE_Bellodi_Lee.pdf'><font size="2"> [pdf]</font></a>** 
 <details>
       <summary><b>abstract</b></summary>
       The establishment of the Department of Government Efficiency (DOGE) during the second Trump administration marked a significant expansion of presidential control over federal agencies and offers an opportunity to examine whether presidents can leverage politicized agencies to simultaneously pursue policy and electoral goals. Drawing on detailed federal procurement data and contract terminations during the first nine months of DOGE operations, we find patterns consistent with politically motivated terminations across multiple dimensions of the president’s objectives. Repub- lican donor firms were less likely to have contracts canceled, whereas firms donating to Democrats were more likely to lose contracts. Cancellations were concentrated in districts won by Democratic candidates within blue states and in liberal agencies ideologically misaligned with the president. These patterns did not emerge under the first Trump or Biden administrations, suggesting that DOGE served as an important institutional mechanism through which the administration pursued multiple political goals simultaneously and at scale.
