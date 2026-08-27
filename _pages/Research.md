@@ -7,6 +7,14 @@ nav: true
 ---
 
 ## Peer-Reviewed Articles
+[5] "Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). _Conditionally Accepted, American Political Science Review_  **<a href='https://kyuwon-lee.github.io/research/BAA_revised.pdf'><font size="2"> [pdf]</font></a>** 
+
+<details>
+      <summary><b>abstract</b></summary>
+      Contemporary protectionist policies are implemented by bureaucratic agencies following executive directives, yet their enforcement varies substantially across firms. We argue that this selective enforcement reflects congressional influence exercised through legislators' institutional leverage and local embeddedness. We test this argument by examining the first Trump administration's effort to strengthen enforcement of the Buy American Act against firms reliant on foreign—especially Chinese—suppliers in federal procurement. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms between 2015 and 2019. We find that firms dependent on Chinese suppliers before the 2016 election experienced significant contract reductions, but only among politically unprotected firms: those represented by legislators who did not sit on important committees or lacked local ties to their districts. Only these firms adjusted their supplier networks in response to stricter enforcement. Our findings demonstrate how congressional influence shapes the distributive consequences of executive-led protectionism.
+</details>    
+<p/>
+      
 [4] "Bureaucratic Performance and Support for International Integration: Evidence from the Trade Adjustment Assistance." (with <a href='https://cfbalcazar.github.io'>Felipe Balcazar</a>). _Conditionally Accepted, American Journal of Political Science_  **<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389077'><font size="2"> [pre-print]</font></a>**
 - Coverage: <a href='https://priceschool.usc.edu/news/delayed-government-benefits-workers-free-trade/'>USC PIPE Collaborative</a>
 
@@ -39,14 +47,6 @@ nav: true
 <p/>
       
 ## Working Papers 
-"Who Gets Protection from Protectionism? Evidence from the Buy American Act." (with <a href='https://soohyuncho.github.io'>Soohyun Cho</a> and <a href='https://hyeyoungyou.com'>Hye Young You</a>). _Revised and Resubmitted_  **<a href='https://kyuwon-lee.github.io/research/BAA_revised.pdf'><font size="2"> [pdf]</font></a>** 
-
-<details>
-      <summary><b>abstract</b></summary>
-      Contemporary protectionist policies are implemented by bureaucratic agencies following executive directives, yet their enforcement varies substantially across firms. We argue that this selective enforcement reflects congressional influence exercised through legislators' institutional leverage and local embeddedness. We test this argument by examining the first Trump administration's effort to strengthen enforcement of the Buy American Act against firms reliant on foreign—especially Chinese—suppliers in federal procurement. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms between 2015 and 2019. We find that firms dependent on Chinese suppliers before the 2016 election experienced significant contract reductions, but only among politically unprotected firms: those represented by legislators who did not sit on important committees or lacked local ties to their districts. Only these firms adjusted their supplier networks in response to stricter enforcement. Our findings demonstrate how congressional influence shapes the distributive consequences of executive-led protectionism.
-</details>    
-<p/>
-
 "The Executive Unbound? Politicized Bureaucracy and Partisan Procurement under DOGE." (with <a href='https://lucabellodi.com/index.html'>Luca Bellodi</a>). _Revise and Resubmit_ **<a href='https://kyuwon-lee.github.io/research/DOGE_Bellodi_Lee.pdf'><font size="2"> [pdf]</font></a>** 
 <details>
       <summary><b>abstract</b></summary>
